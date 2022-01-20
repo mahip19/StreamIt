@@ -1,0 +1,96 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Let's goo !",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "hooooh",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "hooooh",
+      "id": 3
+    },
+    {
+      "title": "My first Stream",
+      "description": "Lets gooo!",
+      "id": 4
+    },
+    {
+      "title": "Total grind",
+      "description": "FOCUS",
+      "id": 5
+    },
+    {
+      "title": "First one",
+      "description": "Whoooho",
+      "id": 6
+    },
+    {
+      "description": "chill",
+      "title": "Hang out",
+      "id": 7
+    },
+    {
+      "title": "First one",
+      "description": "chill",
+      "id": 8
+    },
+    {
+      "description": "talk",
+      "title": "How you doin",
+      "id": 9
+    },
+    {
+      "title": "Moody's stream",
+      "description": "hey there all",
+      "userId": "109079917183144545774",
+      "id": 10
+    },
+    {
+      "title": "dummy",
+      "description": "test",
+      "userId": null,
+      "id": 11
+    },
+    {
+      "title": "fe",
+      "description": "fe",
+      "userId": null,
+      "id": 12
+    },
+    {
+      "title": "the ",
+      "description": "best",
+      "userId": "112846193850169801353",
+      "id": 13
+    },
+    {
+      "title": "second",
+      "description": "stream",
+      "userId": "112846193850169801353",
+      "id": 14
+    },
+    {
+      "title": "valorant",
+      "description": "asdf",
+      "userId": "112846193850169801353",
+      "id": 15
+    },
+    {
+      "title": "first",
+      "description": "asdf",
+      "userId": "112846193850169801353",
+      "id": 16
+    },
+    {
+      "title": "edited1",
+      "description": "lets edit",
+      "id": 18
+    }
+  ]
+}
